@@ -3,3 +3,4 @@
 # Local Compiled files
 bin/
 artifacts/
+node_modules
